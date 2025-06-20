@@ -1,0 +1,34 @@
+
+{% extends 'base.html' %}
+{% block title %}Contratos{% endblock %}
+{% block content %}
+<h2>Contratos</h2>
+<a href="{{ url_for('nuevo_contrato') }}" class="btn btn-primary mb-3">Nuevo Contrato</a>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Nombre del Contrato</th>
+      <th>Fecha Inicio</th>
+      <th>Fecha Fin</th>
+      <th>Empleado Asignado</th>
+      <th>Acciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for cont in contratos %}
+    <tr>
+      <td>{{ cont.id_contrato }}</td>
+      <td>{{ cont.nombre_contrato }}</td>
+      <td>{{ cont.fecha_inicio.strftime('%Y-%m-%d') if cont.fecha_inicio else '' }}</td>
+      <td>{{ cont.fecha_fin.strftime('%Y-%m-%d') if cont.fecha_fin else '' }}</td>
+      <td>{{ cont.nombre_empleado if cont.nombre_empleado else 'N/A' }}</td>
+      <td>
+        <a href="{{ url_for('editar_contrato', id=cont.id_contrato) }}" class="btn btn-warning btn-sm">Editar</a>
+        <a href="{{ url_for('eliminar_contrato_route', id=cont.id_contrato) }}" class="btn btn-danger btn-sm" onclick="return confirm('¿Estás seguro de que quieres eliminar este contrato?');">Eliminar</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

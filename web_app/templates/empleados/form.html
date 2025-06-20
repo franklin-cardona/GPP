@@ -1,0 +1,29 @@
+
+{% extends 'base.html' %}
+{% block title %}Formulario Empleado{% endblock %}
+{% block content %}
+<h2>{{ 'Editar' if empleado else 'Nuevo' }} Empleado</h2>
+<form method="POST">
+  <div class="mb-3">
+    <label for="nombre" class="form-label">Nombre</label>
+    <input type="text" id="nombre" name="nombre" class="form-control" value="{{ empleado.nombre if empleado else '' }}" required>
+  </div>
+  <div class="mb-3">
+    <label for="correo" class="form-label">Correo</label>
+    <input type="email" id="correo" name="correo" class="form-control" value="{{ empleado.correo if empleado else '' }}" required>
+  </div>
+  <div class="mb-3">
+    <label for="rol" class="form-label">Rol</label>
+    <select id="rol" name="rol" class="form-select" required>
+        <option value="empleado" {% if empleado and empleado.rol == 'empleado' %}selected{% endif %}>Empleado</option>
+        <option value="administrador" {% if empleado and empleado.rol == 'administrador' %}selected{% endif %}>Administrador</option>
+    </select>
+  </div>
+  <div class="form-check mb-3">
+    <input type="checkbox" id="activo" name="activo" class="form-check-input" {% if empleado and empleado.activo %}checked{% endif %}>
+    <label class="form-check-label" for="activo">Activo</label>
+  </div>
+  <button type="submit" class="btn btn-success">Guardar</button>
+  <a href="{{ url_for('empleados') }}" class="btn btn-secondary">Cancelar</a>
+</form>
+{% endblock %}

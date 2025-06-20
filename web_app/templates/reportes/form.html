@@ -1,0 +1,57 @@
+
+{% extends 'base.html' %}
+{% block title %}Formulario Reporte{% endblock %}
+{% block content %}
+<h2>{{ 'Editar' if reporte else 'Nuevo' }} Reporte</h2>
+<form method="POST">
+  <div class="mb-3">
+    <label for="id_empleado" class="form-label">Empleado</label>
+    <select id="id_empleado" name="id_empleado" class="form-select" required>
+        <option value="">Seleccione un empleado</option>
+        {% for empleado in empleados %}
+            <option value="{{ empleado.id_empleado }}" {% if reporte and reporte.id_empleado == empleado.id_empleado %}selected{% endif %}>
+                {{ empleado.nombre }}
+            </option>
+        {% endfor %}
+    </select>
+  </div>
+  <div class="mb-3">
+    <label for="id_actividad" class="form-label">Actividad</label>
+    <select id="id_actividad" name="id_actividad" class="form-select" required>
+        <option value="">Seleccione una actividad</option>
+        {% for actividad in actividades %}
+            <option value="{{ actividad.id_actividad }}" {% if reporte and reporte.id_actividad == actividad.id_actividad %}selected{% endif %}>
+                {{ actividad.descripcion }}
+            </option>
+        {% endfor %}
+    </select>
+  </div>
+  <div class="mb-3">
+    <label for="fecha" class="form-label">Fecha</label>
+    {# Formato para input type="datetime-local" debe ser YYYY-MM-DDTHH:MM #}
+    <input type="datetime-local" id="fecha" name="fecha" class="form-control" value="{{ reporte.fecha.strftime('%Y-%m-%dT%H:%M') if reporte and reporte.fecha else '' }}" required>
+  </div>
+  <div class="mb-3">
+    <label for="acciones_realizadas" class="form-label">Acciones Realizadas</label>
+    <textarea id="acciones_realizadas" name="acciones_realizadas" class="form-control" required>{{ reporte.acciones_realizadas if reporte else '' }}</textarea>
+  </div>
+  <div class="mb-3">
+    <label for="comentarios" class="form-label">Comentarios</label>
+    <textarea id="comentarios" name="comentarios" class="form-control">{{ reporte.comentarios if reporte else '' }}</textarea>
+  </div>
+  <div class="mb-3">
+    <label for="porcentaje" class="form-label">Porcentaje de Avance</label>
+    <input type="number" id="porcentaje" name="porcentaje" class="form-control" value="{{ reporte.porcentaje if reporte else '' }}" min="0" max="100">
+  </div>
+  <div class="mb-3">
+    <label for="entregable" class="form-label">Entregable</label>
+    <input type="text" id="entregable" name="entregable" class="form-control" value="{{ reporte.entregable if reporte else '' }}" required>
+  </div>
+  <div class="form-check mb-3">
+    <input type="checkbox" id="estado" name="estado" class="form-check-input" {% if reporte and reporte.estado %}checked{% endif %}>
+    <label class="form-check-label" for="estado">Reporte Completado</label>
+  </div>
+  <button type="submit" class="btn btn-success">Guardar</button>
+  <a href="{{ url_for('reportes') }}" class="btn btn-secondary">Cancelar</a>
+</form>
+{% endblock %}

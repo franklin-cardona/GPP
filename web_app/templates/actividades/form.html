@@ -1,0 +1,33 @@
+
+{% extends 'base.html' %}
+{% block title %}Formulario Actividad{% endblock %}
+{% block content %}
+<h2>{{ 'Editar' if actividad else 'Nueva' }} Actividad</h2>
+<form method="POST">
+  <div class="mb-3">
+    <label for="nro" class="form-label">Nro</label>
+    <input type="number" id="nro" name="nro" class="form-control" value="{{ actividad.Nro if actividad else '' }}" required>
+  </div>
+  <div class="mb-3">
+    <label for="descripcion" class="form-label">Descripción</label>
+    <textarea id="descripcion" name="descripcion" class="form-control" required>{{ actividad.descripcion if actividad else '' }}</textarea>
+  </div>
+  <div class="mb-3">
+    <label for="id_contrato" class="form-label">Contrato</label>
+    <select id="id_contrato" name="id_contrato" class="form-select" required>
+        <option value="">Seleccione un contrato</option>
+        {% for contrato in contratos %}
+            <option value="{{ contrato.id_contrato }}" {% if actividad and actividad.id_contrato == contrato.id_contrato %}selected{% endif %}>
+                {{ contrato.nombre_contrato }}
+            </option>
+        {% endfor %}
+    </select>
+  </div>
+  <div class="mb-3">
+    <label for="porcentaje" class="form-label">Porcentaje</label>
+    <input type="number" id="porcentaje" name="porcentaje" class="form-control" value="{{ actividad.porcentaje if actividad else '' }}" min="0" max="100">
+  </div>
+  <button type="submit" class="btn btn-success">Guardar</button>
+  <a href="{{ url_for('actividades') }}" class="btn btn-secondary">Cancelar</a>
+</form>
+{% endblock %}

@@ -1,0 +1,34 @@
+
+{% extends 'base.html' %}
+{% block title %}Empleados{% endblock %}
+{% block content %}
+<h2>Empleados</h2>
+<a href="{{ url_for('nuevo_empleado') }}" class="btn btn-primary mb-3">Nuevo Empleado</a>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Nombre</th>
+      <th>Correo</th>
+      <th>Rol</th>
+      <th>Activo</th>
+      <th>Acciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for emp in empleados %}
+    <tr>
+      <td>{{ emp.id_empleado }}</td>
+      <td>{{ emp.nombre }}</td>
+      <td>{{ emp.correo }}</td>
+      <td>{{ emp.rol }}</td>
+      <td>{{ 'Sí' if emp.activo else 'No' }}</td>
+      <td>
+        <a href="{{ url_for('editar_empleado', id=emp.id_empleado) }}" class="btn btn-warning btn-sm">Editar</a>
+        <a href="{{ url_for('eliminar_empleado_route', id=emp.id_empleado) }}" class="btn btn-danger btn-sm" onclick="return confirm('¿Estás seguro de que quieres eliminar este empleado?');">Eliminar</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

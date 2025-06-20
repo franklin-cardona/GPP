@@ -1,0 +1,42 @@
+
+{% extends 'base.html' %}
+{% block title %}Reportes{% endblock %}
+{% block content %}
+<h2>Reportes</h2>
+<a href="{{ url_for('nuevo_reporte') }}" class="btn btn-primary mb-3">Nuevo Reporte</a>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Empleado</th>
+      <th>Actividad</th>
+      <th>Fecha</th>
+      <th>Acciones Realizadas</th>
+      <th>Comentarios</th>
+      <th>%</th>
+      <th>Entregable</th>
+      <th>Estado</th>
+      <th>Acciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for rep in reportes %}
+    <tr>
+      <td>{{ rep.id_reporte }}</td>
+      <td>{{ rep.nombre_empleado }}</td>
+      <td>{{ rep.descripcion_actividad }}</td>
+      <td>{{ rep.fecha.strftime('%Y-%m-%d %H:%M') }}</td>
+      <td>{{ rep.acciones_realizadas }}</td>
+      <td>{{ rep.comentarios if rep.comentarios else 'N/A' }}</td>
+      <td>{{ rep.porcentaje if rep.porcentaje else 'N/A' }}</td>
+      <td>{{ rep.entregable }}</td>
+      <td>{{ 'Completado' if rep.estado else 'Pendiente' }}</td>
+      <td>
+        <a href="{{ url_for('editar_reporte', id=rep.id_reporte) }}" class="btn btn-warning btn-sm">Editar</a>
+        <a href="{{ url_for('eliminar_reporte_route', id=rep.id_reporte) }}" class="btn btn-danger btn-sm" onclick="return confirm('¿Estás seguro de que quieres eliminar este reporte?');">Eliminar</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

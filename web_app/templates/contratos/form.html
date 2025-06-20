@@ -1,0 +1,33 @@
+
+{% extends 'base.html' %}
+{% block title %}Formulario Contrato{% endblock %}
+{% block content %}
+<h2>{{ 'Editar' if contrato else 'Nuevo' }} Contrato</h2>
+<form method="POST">
+  <div class="mb-3">
+    <label for="nombre_contrato" class="form-label">Nombre del Contrato</label>
+    <input type="text" id="nombre_contrato" name="nombre_contrato" class="form-control" value="{{ contrato.nombre_contrato if contrato else '' }}" required>
+  </div>
+  <div class="mb-3">
+    <label for="fecha_inicio" class="form-label">Fecha Inicio</label>
+    <input type="date" id="fecha_inicio" name="fecha_inicio" class="form-control" value="{{ contrato.fecha_inicio.strftime('%Y-%m-%d') if contrato and contrato.fecha_inicio else '' }}" required>
+  </div>
+  <div class="mb-3">
+    <label for="fecha_fin" class="form-label">Fecha Fin</label>
+    <input type="date" id="fecha_fin" name="fecha_fin" class="form-control" value="{{ contrato.fecha_fin.strftime('%Y-%m-%d') if contrato and contrato.fecha_fin else '' }}" required>
+  </div>
+  <div class="mb-3">
+    <label for="id_empleado" class="form-label">Empleado Asignado</label>
+    <select id="id_empleado" name="id_empleado" class="form-select">
+        <option value="">Ninguno</option> {# Opción para permitir NULL #}
+        {% for empleado in empleados %}
+            <option value="{{ empleado.id_empleado }}" {% if contrato and contrato.id_empleado == empleado.id_empleado %}selected{% endif %}>
+                {{ empleado.nombre }}
+            </option>
+        {% endfor %}
+    </select>
+  </div>
+  <button type="submit" class="btn btn-success">Guardar</button>
+  <a href="{{ url_for('contratos') }}" class="btn btn-secondary">Cancelar</a>
+</form>
+{% endblock %}
