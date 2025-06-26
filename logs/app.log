@@ -1,0 +1,579 @@
+2025-06-24 19:25:46.412 | ERROR    | db:get_connection:19 - Error de conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:25:46.412 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:35:14.673 | ERROR    | db:get_connection:19 - Error de conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:35:14.673 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:35:37.158 | ERROR    | db:get_connection:19 - Error de conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:35:37.158 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:36:15.153 | ERROR    | db:get_connection:19 - Error de conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:36:15.153 | ERROR    | models.contratos:obtener_contratos:14 - Error obteniendo contratos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:36:40.357 | ERROR    | db:get_connection:19 - Error de conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:36:40.357 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:41:48.074 | ERROR    | db:get_connection:19 - Error de conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:41:49.521 | ERROR    | db:get_connection:45 - Error de conexión a DuckDB: [Errno 2] No such file or directory: 'Basedatos.xlsx'
+2025-06-24 19:41:49.521 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:43:11.924 | ERROR    | db:get_connection:19 - Error de conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:43:12.202 | INFO     | db:get_connection:39 - Conexión exitosa a DuckDB con el archivo Excel.
+2025-06-24 19:43:12.206 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: Catalog Error: Table with name Actividades does not exist!
+Did you mean "duckdb_views"?
+
+LINE 1: ... id_actividad, Nro, descripcion, id_contrato, porcentaje FROM Actividades
+                                                                         ^
+2025-06-24 19:43:31.251 | ERROR    | db:get_connection:19 - Error de conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:43:31.274 | INFO     | db:get_connection:39 - Conexión exitosa a DuckDB con el archivo Excel.
+2025-06-24 19:43:31.283 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: Catalog Error: Table with name Actividades does not exist!
+Did you mean "duckdb_views"?
+
+LINE 1: ... id_actividad, Nro, descripcion, id_contrato, porcentaje FROM Actividades
+                                                                         ^
+2025-06-24 19:44:34.942 | ERROR    | db:get_connection:19 - Error de conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:44:34.956 | INFO     | db:get_connection:39 - Conexión exitosa a DuckDB con el archivo Excel.
+2025-06-24 19:44:34.972 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: Catalog Error: Table with name Actividades does not exist!
+Did you mean "duckdb_views"?
+
+LINE 1: ... id_actividad, Nro, descripcion, id_contrato, porcentaje FROM Actividades
+                                                                         ^
+2025-06-24 19:47:11.367 | ERROR    | db:get_connection:19 - Error de conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:47:11.906 | INFO     | db:get_connection:41 - Conexión exitosa a DuckDB con el archivo Excel.
+2025-06-24 19:47:11.906 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: Catalog Error: Table with name Actividades does not exist!
+Did you mean "duckdb_views"?
+
+LINE 1: ... id_actividad, Nro, descripcion, id_contrato, porcentaje FROM Actividades
+                                                                         ^
+2025-06-24 19:47:27.447 | ERROR    | db:get_connection:19 - Error de conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:47:27.471 | INFO     | db:get_connection:41 - Conexión exitosa a DuckDB con el archivo Excel.
+2025-06-24 19:47:27.477 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: Catalog Error: Table with name Actividades does not exist!
+Did you mean "duckdb_views"?
+
+LINE 1: ... id_actividad, Nro, descripcion, id_contrato, porcentaje FROM Actividades
+                                                                         ^
+2025-06-24 19:58:33.066 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:58:33.280 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 19:58:33.286 | ERROR    | db:get_connection:47 - Error al conectarse al archivo Excel: 'duckdb.duckdb.DuckDBPyConnection' object has no attribute 'table_names'
+2025-06-24 19:58:33.287 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: 'NoneType' object has no attribute 'cursor'
+2025-06-24 19:58:55.661 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 19:58:55.678 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 19:58:55.682 | ERROR    | db:get_connection:47 - Error al conectarse al archivo Excel: 'duckdb.duckdb.DuckDBPyConnection' object has no attribute 'table_names'
+2025-06-24 19:58:55.686 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: 'NoneType' object has no attribute 'cursor'
+2025-06-24 20:01:59.267 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:01:59.407 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:01:59.407 | ERROR    | db:get_connection:47 - Error al conectarse al archivo Excel: 'duckdb.duckdb.DuckDBPyConnection' object has no attribute 'table_names'
+2025-06-24 20:01:59.420 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: 'NoneType' object has no attribute 'cursor'
+2025-06-24 20:06:05.005 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:06:05.245 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:06:05.248 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:06:05.248 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:06:05.249 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:06:05.250 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:06:05.252 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:06:05.252 | ERROR    | db:get_connection:51 - Error al conectarse al archivo Excel: 'duckdb.duckdb.DuckDBPyConnection' object has no attribute 'table_names'
+2025-06-24 20:06:05.254 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: 'NoneType' object has no attribute 'cursor'
+2025-06-24 20:09:18.710 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:09:18.864 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:09:18.866 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:09:18.867 | ERROR    | db:get_connection:52 - Error al conectarse al archivo Excel: Invalid Input Error: Can not construct a child list from object of type '<class 'str'>', only dict/list is supported
+2025-06-24 20:09:18.868 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: 'NoneType' object has no attribute 'cursor'
+2025-06-24 20:10:58.268 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:10:58.424 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:10:58.427 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:10:58.439 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:10:58.441 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:10:58.446 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:10:58.449 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:10:58.450 | ERROR    | db:get_connection:51 - Error al conectarse al archivo Excel: get_table_names(): incompatible function arguments. The following argument types are supported:
+    1. (self: duckdb.duckdb.DuckDBPyConnection, query: str) -> set[str]
+
+Invoked with: <duckdb.duckdb.DuckDBPyConnection object at 0x0000025F8FDA73F0>
+2025-06-24 20:10:58.455 | ERROR    | models.actividades:obtener_actividades:13 - Error obteniendo actividades: 'NoneType' object has no attribute 'cursor'
+2025-06-24 20:39:35.190 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:39:35.439 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:39:35.440 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:39:35.441 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:39:35.442 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:39:35.443 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:39:35.445 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:39:35.445 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 20:40:40.913 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:40:40.932 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:40:40.933 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:40:40.935 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:40:40.936 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:40:40.938 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:40:40.940 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:40:40.940 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 20:40:40.949 | ERROR    | models.contratos:obtener_contratos:14 - Error obteniendo contratos: Catalog Error: Table with name Contratos does not exist!
+Did you mean "pg_constraint"?
+
+LINE 1: ..., c.fecha_fin, c.id_empleado, e.nombre AS nombre_empleado FROM Contratos c LEFT JOIN Empleados e ON c.id_empleado = e.id_e...
+                                                                          ^
+2025-06-24 20:41:56.427 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:41:56.597 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:41:56.599 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:41:56.600 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:41:56.600 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:41:56.601 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:41:56.603 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:41:56.603 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 20:43:33.569 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:43:33.748 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:43:33.750 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:43:33.751 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:43:33.753 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:43:33.754 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:43:33.755 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:43:33.755 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 20:44:06.566 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:44:06.583 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:44:06.585 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:44:06.587 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:44:06.588 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:44:06.589 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:44:06.590 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:44:06.590 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 20:46:01.077 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:46:01.235 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:46:01.237 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:46:01.238 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:46:01.239 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:46:01.240 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:46:01.241 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:46:01.241 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 20:47:44.430 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:47:44.480 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:47:44.482 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:47:44.486 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:47:44.489 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:47:44.493 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:47:44.496 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:47:44.498 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 20:48:59.592 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:48:59.611 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:48:59.613 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:48:59.614 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:48:59.616 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:48:59.617 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:48:59.618 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:48:59.618 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 20:58:08.611 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:58:08.632 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:58:08.634 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:58:08.635 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:58:08.636 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:58:08.638 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:58:08.639 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:58:08.640 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 20:59:31.576 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 20:59:31.615 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 20:59:31.616 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 20:59:31.618 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 20:59:31.619 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 20:59:31.637 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 20:59:31.638 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 20:59:31.638 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:23:49.963 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:23:50.166 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:23:50.168 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:23:50.169 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:23:50.170 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:23:50.171 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:23:50.172 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:23:50.172 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:25:26.833 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:25:26.860 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:25:26.863 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:25:26.867 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:25:26.876 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:25:26.880 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:25:26.884 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:25:26.886 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:43:44.353 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:43:44.594 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:43:44.598 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:43:44.615 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:43:44.618 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:43:44.621 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:43:44.624 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:43:44.624 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:45:32.371 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:45:32.371 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:45:32.393 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:45:32.393 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:45:32.394 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:45:32.394 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:45:32.394 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:45:32.394 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:45:32.397 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:45:32.397 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:45:32.398 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:45:32.398 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:45:32.399 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:45:32.399 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:45:32.399 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:45:32.399 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:46:22.145 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:46:22.145 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:46:22.145 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:46:22.167 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:46:22.167 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:46:22.167 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:46:22.168 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.168 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.168 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.171 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.171 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.171 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.172 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.172 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.172 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.173 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.173 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.173 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.174 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.174 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.174 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:46:22.174 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:46:22.174 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:46:22.174 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:48:50.720 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:48:50.856 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:48:50.858 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:48:50.859 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:48:50.859 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:48:50.861 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:48:50.863 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:48:50.863 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:50:08.322 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:50:08.504 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:50:08.505 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:50:08.506 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:50:08.507 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:50:08.508 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:50:08.509 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:50:08.510 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:54:44.347 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:54:44.347 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:54:44.401 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:54:44.401 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:54:44.405 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:54:44.405 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:54:44.407 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:54:44.407 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:54:44.412 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:54:44.412 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:54:44.415 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:54:44.415 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:54:44.418 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:54:44.418 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:54:44.419 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:54:44.419 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:55:51.927 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:55:51.927 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:55:51.927 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:55:51.946 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:55:51.946 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:55:51.946 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:55:51.950 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.950 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.950 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.951 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.951 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.951 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.952 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.952 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.952 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.953 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.953 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.953 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.954 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.954 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.954 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:55:51.954 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:55:51.954 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:55:51.954 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:58:04.295 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:58:04.295 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:58:04.295 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:58:04.295 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-24 21:58:04.317 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:58:04.317 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:58:04.317 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:58:04.317 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.326 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.337 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.337 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.337 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.337 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.341 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.341 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.341 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.341 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-24 21:58:04.341 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:58:04.341 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:58:04.341 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-24 21:58:04.341 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 10:57:49.105 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 10:57:49.435 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 10:57:49.435 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 10:57:49.451 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 10:57:49.451 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 10:57:49.451 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 10:57:49.457 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 10:57:49.457 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 10:57:52.634 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 10:57:52.666 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 10:57:52.666 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 10:57:52.666 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 10:57:52.666 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 10:57:52.666 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 10:57:52.682 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 10:57:52.682 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 10:58:00.483 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 10:58:00.500 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 10:58:00.502 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 10:58:00.503 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 10:58:00.505 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 10:58:00.507 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 10:58:00.509 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 10:58:00.509 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 10:59:25.586 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 10:59:25.614 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 10:59:25.615 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 10:59:25.616 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 10:59:25.617 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 10:59:25.619 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 10:59:25.620 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 10:59:25.620 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 10:59:27.062 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 10:59:27.080 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 10:59:27.081 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 10:59:27.082 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 10:59:27.083 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 10:59:27.083 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 10:59:27.086 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 10:59:27.086 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 10:59:55.222 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 10:59:55.257 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 10:59:55.257 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 10:59:55.257 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 10:59:55.257 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 10:59:55.257 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 10:59:55.272 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 10:59:55.272 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 11:03:48.414 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 11:03:48.431 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 11:03:48.431 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 11:03:48.447 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 11:03:48.447 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 11:03:48.447 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 11:03:48.447 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 11:03:48.447 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 11:49:31.657 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 11:49:31.878 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 11:49:31.883 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 11:49:31.889 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 11:49:31.889 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 11:49:31.893 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 11:49:31.898 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 11:49:31.898 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:05:03.990 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:05:04.225 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:05:04.229 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:05:04.233 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:05:04.237 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:05:04.242 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:05:04.243 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:05:04.243 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:05:17.877 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:05:17.908 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:05:17.908 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:05:17.916 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:05:17.916 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:05:17.916 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:05:17.940 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:05:17.940 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:05:19.168 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:05:19.200 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:05:19.200 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:05:19.207 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:05:19.207 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:05:19.216 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:05:19.217 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:05:19.217 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:05:19.772 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:05:19.797 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:05:19.804 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:05:19.820 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:05:19.820 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:05:19.827 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:05:19.832 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:05:19.832 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:05:19.995 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:05:20.011 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:05:20.011 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.011 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.011 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.011 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.017 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.017 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:05:20.237 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:05:20.257 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:05:20.259 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.260 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.260 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.261 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.263 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.263 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:05:20.453 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:05:20.470 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:05:20.473 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.475 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.477 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.478 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.480 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.480 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:05:20.670 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:05:20.691 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:05:20.692 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.693 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.693 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.693 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.698 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.698 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:05:20.901 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:05:20.918 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:05:20.920 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.922 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.923 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.925 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.927 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:05:20.927 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:05:21.125 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:05:21.143 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:05:21.144 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:05:21.145 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:05:21.147 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:05:21.147 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:05:21.147 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:05:21.147 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:07:43.907 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:07:43.957 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:07:43.957 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:07:43.957 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:07:43.957 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:07:43.968 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:07:43.977 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:07:43.977 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 12:14:53.597 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 12:14:53.837 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 12:14:53.837 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 12:14:53.843 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 12:14:53.851 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 12:14:53.858 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 12:14:53.861 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 12:14:53.861 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:17:49.406 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:17:49.467 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:17:49.469 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:17:49.477 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:17:49.477 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:17:49.477 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:17:49.486 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:17:49.486 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:18:22.267 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:18:22.305 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:18:22.308 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:18:22.311 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:18:22.313 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:18:22.317 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:18:22.322 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:18:22.322 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:18:47.383 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:18:47.437 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:18:47.447 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:18:47.447 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:18:47.447 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:18:47.457 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:18:47.457 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:18:47.457 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:22:33.888 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:22:34.113 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:22:34.119 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:22:34.135 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:22:34.138 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:22:34.143 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:22:34.148 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:22:34.150 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:23:16.648 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:23:16.671 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:23:16.675 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:23:16.678 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:23:16.680 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:23:16.682 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:23:16.684 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:23:16.684 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:23:31.419 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:23:31.436 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:23:31.438 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:23:31.440 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:23:31.441 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:23:31.442 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:23:31.442 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:23:31.442 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:27:44.786 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:27:44.978 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:27:44.978 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:27:45.008 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:27:45.008 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:27:45.008 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:27:45.018 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:27:45.018 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:30:15.205 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:30:15.326 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:30:15.326 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:30:15.326 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:30:15.326 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:30:15.326 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:30:15.333 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:30:15.333 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:33:22.849 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:33:22.973 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:33:22.973 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:33:22.973 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:33:22.973 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:33:22.973 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:33:22.978 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:33:22.978 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:38:10.868 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:38:11.053 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:38:11.053 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:38:11.053 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:38:11.053 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:38:11.063 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:38:11.069 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:38:11.069 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:38:40.598 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:38:40.685 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:38:40.685 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:38:40.685 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:38:40.705 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:38:40.705 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:38:40.715 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:38:40.715 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.
+2025-06-25 14:39:08.910 | ERROR    | db:get_connection:21 - Error de conexión a SQL Server: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2025-06-25 14:39:08.947 | INFO     | db:get_connection:32 - Conexión a DuckDB creada en memoria.
+2025-06-25 14:39:08.957 | INFO     | db:get_connection:38 - Hoja 'Actividades' registrada como tabla en DuckDB.
+2025-06-25 14:39:08.961 | INFO     | db:get_connection:38 - Hoja 'Contratos' registrada como tabla en DuckDB.
+2025-06-25 14:39:08.961 | INFO     | db:get_connection:38 - Hoja 'Empleados' registrada como tabla en DuckDB.
+2025-06-25 14:39:08.977 | INFO     | db:get_connection:38 - Hoja 'Notificaciones' registrada como tabla en DuckDB.
+2025-06-25 14:39:08.977 | INFO     | db:get_connection:38 - Hoja 'Reportes' registrada como tabla en DuckDB.
+2025-06-25 14:39:08.977 | INFO     | db:get_connection:42 - Conexión exitosa al archivo Excel con DuckDB.

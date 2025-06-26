@@ -1,12 +1,11 @@
-from db import get_connection
+from db import get_connection, ejecutar_consulta
 from logger import logger
+
 
 def obtener_reportes():
     try:
         conn = get_connection()
-        cursor = conn.cursor()
-        # Unir con Empleados y Actividades para mostrar nombres
-        cursor.execute("""
+        consulta = """
             SELECT
                 r.id_reporte,
                 r.id_empleado,
@@ -22,33 +21,34 @@ def obtener_reportes():
             FROM Reportes r
             JOIN Empleados e ON r.id_empleado = e.id_empleado
             JOIN Actividades a ON r.id_actividad = a.id_actividad
-        """)
-        rows = cursor.fetchall()
+        """
+        rows = ejecutar_consulta(conn, consulta)
         conn.close()
         return rows
     except Exception as e:
         logger.error(f"Error obteniendo reportes: {e}")
         return []
 
+
 def obtener_reporte(id_reporte):
     try:
         conn = get_connection()
-        cursor = conn.cursor()
-        cursor.execute("SELECT id_reporte, id_empleado, id_actividad, fecha, acciones_realizadas, comentarios, porcentaje, entregable, estado FROM Reportes WHERE id_reporte=?", id_reporte)
-        row = cursor.fetchone()
+        consulta = f"SELECT id_reporte, id_empleado, id_actividad, fecha, acciones_realizadas, comentarios, porcentaje, entregable, estado FROM Reportes WHERE id_reporte={id_reporte}"
+        row = ejecutar_consulta(conn, consulta)
         conn.close()
         return row
     except Exception as e:
         logger.error(f"Error obteniendo reporte: {e}")
         return None
 
+
 def crear_reporte(id_empleado, id_actividad, fecha, acciones_realizadas, comentarios, porcentaje, entregable, estado):
     try:
         conn = get_connection()
-        cursor = conn.cursor()
-        cursor.execute(
-            "INSERT INTO Reportes (id_empleado, id_actividad, fecha, acciones_realizadas, comentarios, porcentaje, entregable, estado) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
-            (id_empleado, id_actividad, fecha, acciones_realizadas, comentarios, porcentaje, entregable, estado)
+        consulta = "INSERT INTO Reportes (id_empleado, id_actividad, fecha, acciones_realizadas, comentarios, porcentaje, entregable, estado) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"
+        ejecutar_consulta(
+            conn, consulta, (id_empleado, id_actividad, fecha,
+                             acciones_realizadas, comentarios, porcentaje, entregable, estado)
         )
         conn.commit()
         conn.close()
@@ -57,13 +57,15 @@ def crear_reporte(id_empleado, id_actividad, fecha, acciones_realizadas, comenta
         logger.error(f"Error creando reporte: {e}")
         return False
 
+
 def actualizar_reporte(id_reporte, id_empleado, id_actividad, fecha, acciones_realizadas, comentarios, porcentaje, entregable, estado):
     try:
         conn = get_connection()
         cursor = conn.cursor()
         cursor.execute(
             "UPDATE Reportes SET id_empleado=?, id_actividad=?, fecha=?, acciones_realizadas=?, comentarios=?, porcentaje=?, entregable=?, estado=? WHERE id_reporte=?",
-            (id_empleado, id_actividad, fecha, acciones_realizadas, comentarios, porcentaje, entregable, estado, id_reporte)
+            (id_empleado, id_actividad, fecha, acciones_realizadas,
+             comentarios, porcentaje, entregable, estado, id_reporte)
         )
         conn.commit()
         conn.close()
@@ -71,6 +73,7 @@ def actualizar_reporte(id_reporte, id_empleado, id_actividad, fecha, acciones_re
     except Exception as e:
         logger.error(f"Error actualizando reporte: {e}")
         return False
+
 
 def eliminar_reporte(id_reporte):
     try:
